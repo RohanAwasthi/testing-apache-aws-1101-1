@@ -1,0 +1,7 @@
+site_name: testing-apache-aws-1101-1
+
+nav:
+  - Home: README.md
+
+plugins:
+  - techdocs-core
